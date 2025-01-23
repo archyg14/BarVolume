@@ -1,0 +1,10 @@
+/app/
+/*
+!/src
+/src/*
+!/resources
+!/.gitignore
+!/package.json
+!/tsconfig.json
+!/README.md
+!/src/config
